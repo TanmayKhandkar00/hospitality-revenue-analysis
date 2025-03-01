@@ -20,7 +20,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
      The percentage values below each value is the week on week change. It meausres the percentage difference in a metric (e.g., Revenue, Occupancy %, ADR, RevPAR, Realisation %) between the current week and the previous week. It helps track trends and performance improvements over time.
 
-*  **Weekend vs Weekday Split Table**:
+*  **Weekend vs Weekday Split Table**: This table provides the comparison of RevPAR, Occupancy %, ADR and Realisation % between weekdays and weekends.
      
 
     
