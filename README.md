@@ -87,12 +87,15 @@ The dashboard highlights the following **KPIs** at the top-left, each displaying
 **1. Pricing Optimization**
 - Adjust **weekday pricing** to attract business travelers.
 - Implement **dynamic pricing** based on seasonal demand trends.
+
 **2. Improve Booking Efficiency**
 - Offer **discounts on direct bookings** to improve Realisation %.
 - Strengthen partnerships with **high-performing booking platforms**.
+
 **3. Property-Level Enhancements**  
 - **Improve occupancy rates** in weaker-performing properties through promotions.  
 - Analyze **city-level RevPAR differences** to refine regional strategies.  
+
 **4. Room Type Management**  
 - Adjust **inventory and pricing for underperforming room types**.  
 - Introduce **special packages** to boost bookings for high-cancellation room types.
